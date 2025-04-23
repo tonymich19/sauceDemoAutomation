@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Elessar\\source\\repos\\ShaunaghAKelly - Copia\\sauceDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{45B6CDF0-04A4-4DC7-939C-9102C142C9D7}|sauceLabsTest\\sauceDemoTest.csproj|c:\\users\\elessar\\source\\repos\\shaunaghakelly - copia\\saucedemo\\saucelabstest\\support\\hooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45B6CDF0-04A4-4DC7-939C-9102C142C9D7}|sauceLabsTest\\sauceDemoTest.csproj|solutionrelative:saucelabstest\\support\\hooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Elessar\\source\\repos\\ShaunaghAKelly - Copia\\sauceDemo\\sauceLabsTest\\LivingDoc.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:sauceLabsTest\\LivingDoc.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45B6CDF0-04A4-4DC7-939C-9102C142C9D7}|sauceLabsTest\\sauceDemoTest.csproj|c:\\users\\elessar\\source\\repos\\shaunaghakelly - copia\\saucedemo\\saucelabstest\\drivers\\browser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45B6CDF0-04A4-4DC7-939C-9102C142C9D7}|sauceLabsTest\\sauceDemoTest.csproj|solutionrelative:saucelabstest\\drivers\\browser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45B6CDF0-04A4-4DC7-939C-9102C142C9D7}|sauceLabsTest\\sauceDemoTest.csproj|c:\\users\\elessar\\source\\repos\\shaunaghakelly - copia\\saucedemo\\saucelabstest\\pageobjects\\basepageobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45B6CDF0-04A4-4DC7-939C-9102C142C9D7}|sauceLabsTest\\sauceDemoTest.csproj|solutionrelative:saucelabstest\\pageobjects\\basepageobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45B6CDF0-04A4-4DC7-939C-9102C142C9D7}|sauceLabsTest\\sauceDemoTest.csproj|c:\\users\\elessar\\source\\repos\\shaunaghakelly - copia\\saucedemo\\saucelabstest\\features\\addtocart.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{45B6CDF0-04A4-4DC7-939C-9102C142C9D7}|sauceLabsTest\\sauceDemoTest.csproj|solutionrelative:saucelabstest\\features\\addtocart.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LivingDoc.html",
+              "DocumentMoniker": "C:\\Users\\Elessar\\source\\repos\\ShaunaghAKelly - Copia\\sauceDemo\\sauceLabsTest\\LivingDoc.html",
+              "RelativeDocumentMoniker": "sauceLabsTest\\LivingDoc.html",
+              "ToolTip": "C:\\Users\\Elessar\\source\\repos\\ShaunaghAKelly - Copia\\sauceDemo\\sauceLabsTest\\LivingDoc.html",
+              "RelativeToolTip": "sauceLabsTest\\LivingDoc.html",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-04-23T02:23:48.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BasePageObject.cs",
+              "DocumentMoniker": "C:\\Users\\Elessar\\source\\repos\\ShaunaghAKelly - Copia\\sauceDemo\\sauceLabsTest\\PageObjects\\BasePageObject.cs",
+              "RelativeDocumentMoniker": "sauceLabsTest\\PageObjects\\BasePageObject.cs",
+              "ToolTip": "C:\\Users\\Elessar\\source\\repos\\ShaunaghAKelly - Copia\\sauceDemo\\sauceLabsTest\\PageObjects\\BasePageObject.cs",
+              "RelativeToolTip": "sauceLabsTest\\PageObjects\\BasePageObject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T04:09:25.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "addToCart.feature",
+              "DocumentMoniker": "C:\\Users\\Elessar\\source\\repos\\ShaunaghAKelly - Copia\\sauceDemo\\sauceLabsTest\\Features\\addToCart.feature",
+              "RelativeDocumentMoniker": "sauceLabsTest\\Features\\addToCart.feature",
+              "ToolTip": "C:\\Users\\Elessar\\source\\repos\\ShaunaghAKelly - Copia\\sauceDemo\\sauceLabsTest\\Features\\addToCart.feature",
+              "RelativeToolTip": "sauceLabsTest\\Features\\addToCart.feature",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-22T04:09:12.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Browser.cs",
+              "DocumentMoniker": "C:\\Users\\Elessar\\source\\repos\\ShaunaghAKelly - Copia\\sauceDemo\\sauceLabsTest\\Drivers\\Browser.cs",
+              "RelativeDocumentMoniker": "sauceLabsTest\\Drivers\\Browser.cs",
+              "ToolTip": "C:\\Users\\Elessar\\source\\repos\\ShaunaghAKelly - Copia\\sauceDemo\\sauceLabsTest\\Drivers\\Browser.cs",
+              "RelativeToolTip": "sauceLabsTest\\Drivers\\Browser.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwBkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T04:08:51.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "hooks.cs",
+              "DocumentMoniker": "C:\\Users\\Elessar\\source\\repos\\ShaunaghAKelly - Copia\\sauceDemo\\sauceLabsTest\\Support\\hooks.cs",
+              "RelativeDocumentMoniker": "sauceLabsTest\\Support\\hooks.cs",
+              "ToolTip": "C:\\Users\\Elessar\\source\\repos\\ShaunaghAKelly - Copia\\sauceDemo\\sauceLabsTest\\Support\\hooks.cs",
+              "RelativeToolTip": "sauceLabsTest\\Support\\hooks.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T04:08:38.164Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

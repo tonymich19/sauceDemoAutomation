@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\.github",
+    "\\.github\\workflow",
+    "\\sauceLabsTest"
   ],
-  "SelectedNode": "\\README.md",
+  "SelectedNode": "\\.github\\workflow\\test.yml",
   "PreviewInSolutionExplorer": false
 }

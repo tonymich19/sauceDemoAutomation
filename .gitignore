@@ -1,0 +1,58 @@
+## Build results
+bin/
+obj/
+TestResults/
+*.log
+*.trx
+
+## User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+.vscode/
+.idea/
+*.sln.iml
+
+## OS generated files
+.DS_Store
+Thumbs.db
+
+## Visual Studio
+.vs/
+*.psess
+*.vsp
+*.vspx
+*.vsmdi
+*.cache
+*.dbmdl
+
+## SpecFlow / LivingDoc
+*.feature.cs
+LivingDoc.html
+*.specflow.json
+
+## NUnit
+nunit-*.xml
+
+## Allure
+allure-results/
+allure-report/
+.allure/
+
+## Rider
+.idea/
+*.sln.iml
+
+## Logs
+*.log
+
+## Packages
+*.nupkg
+packages/
+project.lock.json
+project.fragment.lock.json
+
+## Dotnet CLI
+project.assets.json
+project.nuget.cache
